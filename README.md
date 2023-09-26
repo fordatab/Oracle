@@ -1,4 +1,4 @@
-*Acquire sepolia ETH and LINK before:* [*LINK*](https://faucets.chain.link/sepolia) | [*ETH*](https://sepoliafaucet.com/)
+*Acquire sepolia ETH and LINK before:* [*LINK*](https://faucets.chain.link/sepolia) *|* [*ETH*](https://sepoliafaucet.com/)
 ### Installing packages
 1. ```npm init```, press enter for all prompts
 2. ```npm install --save-dev hardhat```
