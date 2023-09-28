@@ -109,7 +109,7 @@ contract UniswapV3Twap {
     }
 
     /**
-     * @dev Updates the size of the array
+     * @dev Updates the size of the array //TODO not functional
      */
     function updateSize(uint256 _size) public {
         require(_size > 0);
